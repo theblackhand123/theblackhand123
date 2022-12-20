@@ -6,10 +6,10 @@
 --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theblackhand123&count_private=true&show_icons=true&theme=nord#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblackhand123&count_private=true&show_icons=true&theme=nord#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theblackhand123&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theblackhand123&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblackhand123&layout=compact" />
